@@ -1,2 +1,2 @@
 "# git_ver_test" 
-"pc 2"
+"pc 3 未更新 pull 測試是否會上傳上github"
