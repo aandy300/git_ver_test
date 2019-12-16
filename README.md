@@ -1,1 +1,2 @@
-"# git_ver_test" 
+"# git_ver_test"
+"NB ver2"
