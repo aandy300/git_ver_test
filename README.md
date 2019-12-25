@@ -1,3 +1,4 @@
-new_branch_fast-forward_test01
-----------------------------------
-" new_branch_fast-forward_test "
+nb_howtopink_test 00
+----------------------
+nb_howtopink_test
+"順便測試本地only"
