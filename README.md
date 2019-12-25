@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<<<<<<< HEAD
 "# git_ver_test"
 "NB ver2"
@@ -22,3 +23,8 @@ nb打的中文
 --------------------------
 new_branch_test
 191218
+=======
+﻿new_branch_test_01
+" git push --set-upstream origin new_branch_test "
+" Github add new_branch_test "
+>>>>>>> new_branch_test
